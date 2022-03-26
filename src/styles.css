@@ -19,6 +19,7 @@ body {
   h1 span {
     padding: 5px 15px;
     background: #F68989;
+    text-decoration: underline;
   }
   
   .dictionary {

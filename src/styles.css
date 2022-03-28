@@ -20,6 +20,7 @@ body {
     padding: 5px 15px;
     background: #F68989;
     text-decoration: underline;
+    border: 15px double #F6E7D8;
   }
   
   .dictionary {
@@ -32,11 +33,11 @@ body {
   
   .dictionary > .term {
     text-align: center;
-    max-width: 20rem;
+    max-width: 18rem;
     margin-bottom: 3rem;
     padding: 2rem;
-    border-radius: 3px;
-    box-shadow: 0 6px 8px rgba(48, 48, 48, 0.589);
+    border-radius: 12px;
+    box-shadow: 0 6px 10px rgba(39, 39, 39, 0.616);
     background-color: #fff;
     transition: all 100ms ease-in-out;
   }
@@ -63,7 +64,7 @@ body {
   }
   
   dd {
-    font-size: 120%;
+    font-size: 130%;
     margin-left: 0;
     font-family: monospace;
   }
